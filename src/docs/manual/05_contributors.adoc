@@ -59,6 +59,7 @@ Here is an incomplete and unordered list of contributors:
 - https://github.com/Rosi2143[Michael Roßner]
 - https://github.com/DaHoC[Jan Hendriks]
 - https://github.com/devMaFi[Martin Fischer]
+- https://github.com/CollierCZ[Aaron Collier]
 
 (please update your entry to match your preferences! :-)
 
